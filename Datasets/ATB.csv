@@ -1,0 +1,244 @@
+Age;Sexe;Hopital;Profession;situation_mat;Niveau_etud;Religion;Aspect_leuco;couleurs ;Nbre_enfant;Traitement;Infect_geni;Prod_utilise;pH;result_anal;Especes;Nys;FLU;AMB
+37;F;HRM;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;0;OUI;Non;H2O;4;Négatif;;;;
+22;F;HRM;Elève;Celibatiaire;Secondaire;Musulmane;Fluide;blanchatre;1;NON;OUI;Savon;4;positif;C.glabrata;S;R;R
+23;F;HRM;Ménagère;Marié;Secondaire;Chretienne;Cremeux;blanchatre;0;OUI;OUI;H2O;4;positif;C.Krusei;S;R;R
+22;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;Non;Savon;4;positif;C.glabrata;S;R;R
+28;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Cremeux;Jaunatre;2;OUI;OUI;H2O;3;positif;C.Krusei;S;R;R
+38;F;HRM;Ménagère;Encouple;Primaire;Musulmane;Cremeux;Jaunatre;3;OUI;Non;Savon;4;positif;C.glabrata;S;I;R
+33;F;HRM;Elève;Marié;Secondaire;Chretienne;Cremeux;blanchatre;2;OUI;OUI;Savon;4;Négatif;;;;
+30;F;HRM;Ménagère;Marié;Primaire;Musulmane;Fluide;blanchatre;2;OUI;OUI;Savon;5;Négatif;;;;
+28;F;HRM;Employer de bureau;Encouple;Universitaire;Musulmane;Cremeux;Jaunatre;1;OUI;Non;Savon;4;positif;C.glabrata;S;R;R
+35;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;Jaunatre;2;OUI;OUI;Savon;4;Négatif;;;;
+20;F;HRM;Ménagère;Celibatiaire;Secondaire;Musulmane;Cremeux;blanchatre;2;NON;OUI;H2O;3;Négatif;;;;
+22;F;HRM;Etudiante;Marié;Universitaire;Musulmane;Cremeux;blanchatre;0;NON;Non;H2O;5;Négatif;;;;
+20;F;HRM;Ménagère;Marié;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;3;Négatif;;;;
+32;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Fluide;blanchatre;1;NON;Non;Cyteal;4;positif;C.glabrata;S;R;R
+45;F;HRM;Ménagère;Marié;Non;Musulmane;Fluide;blanchatre;5;NON;Non;Savon;4;Négatif;;;;
+22;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;OUI;H2O;4;Négatif;;;;
+20;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;OUI;Savon;4;positif;C.Albicans;S;R;S
+27;F;HRM;Employer de bureau;Encouple;Universitaire;Musulmane;Fluide;blanchatre;2;NON;Non;Savon;5;positif;C.Albicans;S;R;R
+29;F;HRM;Ménagère;Marié;Secondaire;Chretienne;Cremeux;blanchatre;2;NON;Non;Savon;4;positif;C.glabrata;S;S;R
+46;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;Jaunatre;3;NON;Non;H2O;3;positif;C.Krusei;S;R;R
+25;F;HRM;Ménagère;Encouple;Primaire;Musulmane;Fluide;blanchatre;0;NON;OUI;Savon;4;positif;C.glabrata;S;R;R
+35;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;blanchatre;3;NON;OUI;Savon;3;Négatif;;;;
+25;F;HRM;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;2;NON;Non;H2O;4;Négatif;;;;
+29;F;HRM;Informel;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;NON;Non;H2O;4;Négatif;;;;
+21;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;Jaunatre;0;NON;OUI;H2O;4;positif;C.Albicans;S;R;R
+22;F;HRM;Elève;Marié;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;Non;Savon;4;Négatif;;;;
+28;F;HRM;Etudiante;Marié;Universitaire;Musulmane;Cremeux;Jaunatre;3;NON;Non;H2O;4;positif;C.Albicans;S;R;S
+40;F;HRM;Etudiante;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;1;NON;Non;H2O;4;positif;C.Albicans;S;R;S
+35;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;0;NON;Non;Cyteal;3;Négatif;;;;
+27;F;HRM;Ménagère;Encouple;Primaire;Musulmane;Fluide;blanchatre;2;NON;Non;Savon;4;Négatif;;;;
+20;F;HRM;Ménagère;Marié;Primaire;Chretienne;Cremeux;blanchatre;3;NON;Non;Savon;4;positif;C.glabrata;S;R;R
+36;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;Jaunatre;1;OUI;OUI;H2O;4;Négatif;;;;
+20;F;HRM;Etudiante;Celibatiaire;Universitaire;Musulmane;Cremeux;blanchatre;0;NON;OUI;H2O;4;Négatif;;;;
+28;F;HRM;Etudiante;Celibatiaire;Universitaire;Musulmane;Cremeux;blanchatre;1;NON;OUI;Cyteal;4;positif;C.Albicans;S;R;R
+22;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Cremeux;Jaunatre;4;OUI;OUI;Savon;4;positif;C.Albicans;S;R;S
+20;F;HRM;Ménagère;Marié;Secondaire;Chretienne;Cremeux;blanchatre;1;NON;Non;H2O;3;Négatif;;;;
+22;F;HRM;Ménagère;Marié;Primaire;Chretienne;Cremeux;blanchatre;1;NON;Non;H2O;4;positif;C.Albicans;S;S;R
+24;F;HRM;Elève;Marié;Secondaire;Musulmane;Cremeux;blanchatre;2;NON;Non;H2O;4;positif;C.glabrata;S;R;R
+33;F;HRM;Elève;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;4;OUI;OUI;H2O;4;positif;C.glabrata;S;R;R
+25;F;HRM;Employer de bureau;Marié;Secondaire;Musulmane;Cremeux;blanchatre;0;OUI;OUI;H2O;4;Négatif;;;;
+23;F;HRM;Elève;Marié;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;5;Négatif;;;;
+23;F;HRM;Etudiante;Encouple;Universitaire;Musulmane;Cremeux;blanchatre;2;NON;Non;Cyteal;4;positif;C.Albicans;S;R;R
+23;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;Jaunatre;6;OUI;OUI;H2O;4;positif;C.Albicans;S;R;S
+21;F;HRM;Elève;Celibatiaire;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;OUI;H2O;5;positif;C.Albicans;S;R;R
+22;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;4;NON;OUI;H2O;4;Négatif;;;;
+24;F;HRM;Etudiante;Encouple;Universitaire;Chretienne;Cremeux;blanchatre;4;NON;Non;Savon;5;Négatif;;;;
+32;F;HRM;Ménagère;Celibatiaire;Secondaire;Musulmane;Cremeux;blanchatre;3;NON;OUI;Savon;5;Négatif;;;;
+34;F;CSIPCD;Ménagère;Marié;Universitaire;Chretienne;Cremeux;blanchatre;1;NON;Non;H2O;5;positif;C.Albicans;S;R;S
+27;F;CSIPCD;Elève;Marié;Secondaire;Musulmane;Cremeux;blanchatre;0;NON;Non;H2O;5;Négatif;;;;
+36;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Fluide;blanchatre;0;NON;Non;Savon;4;Négatif;;;;
+34;F;HRM;Ménagère;Celibatiaire;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;OUI;Savon;4;Négatif;;;;
+28;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;blanchatre;1;NON;Non;H2O;4;Négatif;;;;
+41;F;HRM;Employer de bureau;Marié;Universitaire;Chretienne;Cremeux;blanchatre;0;OUI;OUI;H2O;3;Négatif;;;;
+26;F;CSIPCD;Employer de bureau;Celibatiaire;Universitaire;Chretienne;Fluide;blanchatre;0;OUI;OUI;Cyteal;4;positif;C.Albicans;S;R;S
+21;F;CSIPCD;Elève;Celibatiaire;Secondaire;Chretienne;Cremeux;blanchatre;0;OUI;OUI;H2O;4;positif;C.Albicans;S;R;R
+25;F;HRM;Etudiante;Encouple;Universitaire;Chretienne;Fluide;blanchatre;0;OUI;OUI;H2O;4;positif;C.glabrata;S;R;R
+25;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Mousseux;blanchatre;2;NON;Non;H2O;4;Négatif;;;;
+26;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;3;positif;C.Albicans;S;R;S
+26;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;1;NON;OUI;Savon;4;positif;C.Albicans;S;S;R
+28;F;HRM;Elève;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;R;S
+28;F;HRM;Elève;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;1;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+20;F;CSIPCD;Etudiante;Marié;Universitaire;Chretienne;Fluide;blanchatre;0;NON;Non;H2O;5;Négatif;;;;
+24;F;CSIPCD;Elève;Marié;Secondaire;Musulmane;Fluide;blanchatre;3;NON;Non;Savon;4;positif;C.Krusei;S;R;R
+20;F;HRM;Ménagère;Encouple;Primaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;S;R
+32;F;HRM;Employer de bureau;Encouple;Universitaire;Chretienne;Cremeux;Marron;1;OUI;OUI;H2O;4;positif;C.Albicans;S;R;R
+26;F;HRM;Etudiante;Encouple;Universitaire;Musulmane;Cremeux;blanchatre;1;OUI;OUI;H2O;4;positif;C.Albicans;S;R;R
+34;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Fluide;Jaunatre;1;OUI;OUI;Savon;5;Négatif;;;;
+21;F;CSIPCD;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;0;OUI;OUI;Cyteal;4;positif;C.Albicans;S;S;R
+26;F;CSIPCD;Ménagère;Marié;Secondaire;Musulmane;Cremeux;blanchatre;1;OUI;OUI;Savon;4;Négatif;;;;
+26;F;HRM;Employer de bureau;Celibatiaire;Universitaire;Musulmane;Cremeux;blanchatre;0;OUI;OUI;H2O;4;Négatif;C.Albicans;S;S;R
+23;F;HRM;Employer de bureau;Celibatiaire;Universitaire;Musulmane;Cremeux;blanchatre;2;NON;Non;H2O;4;Négatif;C.Krusei;S;R;R
+40;F;HRM;Employer de bureau;Celibatiaire;Secondaire;Musulmane;Cremeux;blanchatre;0;NON;OUI;Cyteal;5;Négatif;;;;
+22;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;3;NON;OUI;H2O;4;Négatif;;;;
+23;F;CSIPCD;Etudiante;Marié;Universitaire;Musulmane;Cremeux;blanchatre;0;NON;OUI;Savon;4;Négatif;;;;
+21;F;CSIPCD;Ménagère;Marié;Non;Chretienne;Fluide;blanchatre;1;NON;Non;Savon;4;Négatif;;;;
+30;F;HRM;Employer de bureau;Encouple;Universitaire;Chretienne;Cremeux;blanchatre;1;NON;OUI;H2O;5;Négatif;;;;
+21;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;Jaunatre;1;NON;Non;H2O;4;positif;C.Albicans;S;S;R
+35;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;2;NON;OUI;H2O;4;positif;C.Albicans;S;S;R
+29;F;HRM;Ménagère;Marié;Secondaire;Chretienne;Cremeux;blanchatre;1;NON;Non;H2O;4;positif;C.Albicans;S;S;R
+21;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;Jaunatre;0;NON;Non;H2O;5;positif;C.glabrata;S;S;R
+21;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;0;NON;Non;Savon;4;positif;C.Albicans;S;S;R
+22;F;CSIPCD;Ménagère;Marié;Secondaire;Musulmane;Cremeux;blanchatre;5;NON;Non;Savon;4;positif;C.Albicans;S;S;R
+25;F;CSIPCD;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;3;NON;OUI;Savon;4;Négatif;;;;
+23;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;1;NON;Non;H2O;4;positif;C.Krusei;S;S;R
+30;F;HRM;Etudiante;Encouple;Universitaire;Chretienne;Cremeux;blanchatre;1;NON;OUI;H2O;4;Négatif;;;;
+29;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;4;NON;OUI;Savon;5;positif;C.Albicans;S;S;R
+21;F;CSIPCD;Ménagère;Marié;Primaire;Musulmane;Cremeux;blanchatre;0;NON;Non;Savon;4;positif;C.Albicans;S;R;R
+29;F;CSIPCD;Etudiante;Marié;Universitaire;Chretienne;Cremeux;blanchatre;3;NON;Non;Savon;4;Négatif;;;;
+29;F;CSIPCD;Etudiante;Marié;Universitaire;Chretienne;Cremeux;blanchatre;2;OUI;OUI;Savon;4;Négatif;;;;
+20;F;CSIPCD;Ménagère;Celibatiaire;Non;Chretienne;Cremeux;blanchatre;1;NON;Non;Savon;4;positif;C.Albicans;S;R;R
+23;F;CSIPCD;Informel;Marié;Secondaire;Chretienne;Fluide;blanchatre;0;NON;Non;Savon;5;Négatif;;;;
+22;F;CSIPCD;Elève;Marié;Secondaire;Chretienne;Fluide;blanchatre;1;OUI;OUI;Savon;4;Négatif;;;;
+29;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;1;OUI;OUI;Savon;4;positif;C.glabrata;S;R;R
+20;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;Jaunatre;0;NON;Non;H2O;3;Négatif;;;;
+29;F;HRM;Ménagère;Marié;Secondaire;Chretienne;Cremeux;Jaunatre;2;NON;OUI;H2O;4;positif;C.glabrata;S;S;R
+40;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;2;NON;Non;H2O;3;positif;C.glabrata;S;S;R
+37;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Fluide;blanchatre;2;NON;OUI;H2O;4;Négatif;;;;
+21;F;CSIPCD;Ménagère;Encouple;Non;Musulmane;Cremeux;Jaunatre;0;NON;OUI;Savon;5;Négatif;;;;
+38;F;CSIPCD;Ménagère;Encouple;Primaire;Musulmane;Fluide;blanchatre;5;NON;Non;H2O;5;Négatif;;;;
+20;F;CSIPCD;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;1;NON;Non;Savon;3;positif;C.glabrata;S;R;R
+38;F;HRM;Ménagère;Marié;Primaire;Chretienne;Cremeux;blanchatre;0;NON;Non;Savon;4;positif;C.glabrata;S;R;R
+22;F;CSIPCD;Etudiante;Marié;Universitaire;Musulmane;Fluide;blanchatre;0;OUI;OUI;H2O;4;Négatif;;;;
+25;F;CSIPCD;Etudiante;Marié;Universitaire;Chretienne;Cremeux;blanchatre;0;OUI;Non;Savon;4;Négatif;;;;
+23;F;CSIPCD;Ménagère;Marié;Primaire;Musulmane;Cremeux;blanchatre;7;OUI;OUI;Savon;4;Négatif;;;;
+29;F;CSIPCD;Elève;Celibatiaire;Secondaire;Musulmane;Fluide;blanchatre;0;OUI;Non;H2O;4;positif;C.Albicans;S;S;R
+23;F;CSIPCD;Informel;Encouple;Secondaire;Musulmane;Cremeux;Jaunatre;1;OUI;OUI;Savon;4;positif;C.Albicans;S;S;R
+25;F;CSIPCD;Informel;Marié;Secondaire;Chretienne;Cremeux;blanchatre;1;OUI;OUI;H2O;4;Négatif;;;;
+28;F;HRM;Informel;Marié;Universitaire;Chretienne;Cremeux;Jaunatre;3;NON;Non;H2O;4;Négatif;;;;
+22;F;HRM;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;0;NON;OUI;H2O;4;positif;C.glabrata;R;R;R
+23;F;HRM;Ménagère;Marié;Secondaire;Musulmane;Cremeux;blanchatre;1;NON;Non;Savon;4;Négatif;;;;
+20;F;CSIPCD;Elève;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;0;NON;Non;Savon;3;Négatif;;;;
+29;F;CSIPCD;Employer de bureau;Marié;Secondaire;Chretienne;Fluide;blanchatre;2;NON;Non;Savon;4;positif;C.Albicans;S;R;R
+40;F;CSIPCD;Ménagère;Marié;Non;Musulmane;Fluide;blanchatre;2;NON;Non;Savon;4;Négatif;;;;
+29;F;CSIPCD;Ménagère;Encouple;Primaire;Musulmane;Fluide;Jaunatre;0;NON;Non;H2O;4;positif;C.Krusei;S;R;R
+34;F;CSIPCD;Ménagère;Marié;Primaire;Musulmane;Fluide;blanchatre;5;NON;Non;Savon;4;positif;C.glabrata;S;S;R
+21;F;CSIPCD;Ménagère;Encouple;Primaire;Chretienne;Fluide;blanchatre;0;NON;Non;Savon;4;Négatif;;;;
+21;F;CSIPCD;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;0;NON;OUI;Savon;4;Négatif;;;;
+35;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;3;NON;OUI;H2O;4;Négatif;;;;
+34;F;HRM;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;3;NON;OUI;H2O;4;Négatif;;;;
+23;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;4;Négatif;;;;
+32;F;HRM;Informel;Marié;Secondaire;Chretienne;Cremeux;Jaunatre;2;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+23;F;HRM;Ménagère;Celibatiaire;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;4;Négatif;;;;
+29;F;HRM;Elève;Marié;Secondaire;Chretienne;Cremeux;Marron;0;NON;Non;Savon;4;positif;C.Albicans;S;S;R
+35;F;HRM;Ménagère;Encouple;Primaire;Chretienne;Cremeux;blanchatre;5;NON;Non;H2O;3;Négatif;;;;
+29;F;HRM;Elève;Celibatiaire;Primaire;Chretienne;Cremeux;blanchatre;1;NON;OUI;H2O;4;positif;C.Albicans;S;S;R
+22;F;CSIPCD;Etudiante;Encouple;Universitaire;Musulmane;Cremeux;blanchatre;0;NON;OUI;Savon;4;positif;C.Albicans;S;R;R
+26;F;CSIPCD;Etudiante;Celibatiaire;Universitaire;Musulmane;Cremeux;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;S;R
+28;F;CSIPCD;Etudiante;Encouple;Universitaire;Musulmane;Fluide;blanchatre;1;NON;Non;Savon;5;positif;C.Albicans;S;R;R
+26;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;Non;Savon;5;Négatif;;;;
+21;F;HRM;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;2;OUI;OUI;Savon;5;Négatif;;;;
+25;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;3;NON;Non;H2O;5;Négatif;;;;
+36;F;HRM;Employer de bureau;Marié;Secondaire;Chretienne;Cremeux;Jaunatre;1;NON;Non;H2O;5;Négatif;;;;
+32;F;HRM;Employer de bureau;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;2;NON;OUI;Savon;5;positif;C.glabrata;S;R;R
+24;F;CSIPCD;Informel;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;NON;OUI;H2O;4;Négatif;;;;
+22;F;CSIPCD;Elève;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;NON;OUI;H2O;4;positif;C.Albicans;S;R;R
+22;F;HRM;Informel;Celibatiaire;Secondaire;Chretienne;Cremeux;Jaunatre;0;NON;Non;H2O;4;Négatif;;;;
+27;F;HRM;Employer de bureau;Marié;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+28;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;5;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+23;F;CSIPCD;Elève;Celibatiaire;Secondaire;Musulmane;Cremeux;Jaunatre;8;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+21;F;CSIPCD;Informel;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;1;NON;Non;H2O;4;positif;C.Tropicalis;S;S;R
+20;F;HRM;Etudiante;Celibatiaire;Universitaire;Musulmane;Cremeux;Jaunatre;0;NON;Non;H2O;4;positif;C.Albicans;S;S;R
+20;F;HRM;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;Jaunatre;0;NON;Non;H2O;5;Négatif;;;;
+21;F;CSIPCD;Ménagère;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;OUI;H2O;5;positif;C.Albicans;S;S;R
+22;F;CSIPCD;Informel;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;1;NON;Non;Cyteal;4;Négatif;;;;
+22;F;CSIPCD;Ménagère;Marié;Secondaire;Musulmane;Cremeux;blanchatre;1;NON;Non;Savon;4;positif;C.Albicans;S;S;R
+24;F;CSIPCD;Ménagère;Encouple;Primaire;Chretienne;Fluide;blanchatre;0;NON;Non;Savon;4;Négatif;;;;
+24;F;HRM;Etudiante;Marié;Universitaire;Musulmane;Cremeux;Jaunatre;1;NON;Non;Savon;6;Négatif;;;;
+26;F;CSIPCD;Etudiante;Encouple;Universitaire;Musulmane;Fluide;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;S;R
+41;F;CSIPCD;Employer de bureau;Marié;Secondaire;Chretienne;Cremeux;blanchatre;2;OUI;OUI;H2O;4;Négatif;;;;
+31;F;HRM;Ménagère;Marié;Universitaire;Chretienne;Mousseux;blanchatre;2;NON;Non;H2O;5;Négatif;;;;
+24;F;CSIPCD;Ménagère;Encouple;Primaire;Musulmane;Cremeux;blanchatre;2;OUI;OUI;H2O;3;Négatif;;;;
+25;F;HRM;Etudiante;Celibatiaire;Universitaire;Musulmane;Cremeux;blanchatre;3;OUI;OUI;H2O;5;Négatif;;;;
+27;F;HRM;Ménagère;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;R;S;R
+24;F;HRM;Elève;Celibatiaire;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+23;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Cremeux;blanchatre;0;OUI;OUI;H2O;4;positif;C.glabrata;S;I;R
+22;F;CSIPCD;Ménagère;Encouple;Non;Musulmane;Cremeux;blanchatre;0;NON;Non;H2O;4;Négatif;;;;
+23;F;CSIPCD;Informel;Celibatiaire;Secondaire;Chretienne;Fluide;blanchatre;0;NON;Non;Savon;4;positif;C.Albicans;S;S;R
+33;F;HRM;Employer de bureau;Encouple;Universitaire;Musulmane;Cremeux;blanchatre;2;NON;Non;H2O;5;Négatif;;;;
+29;F;HRM;Ménagère;Celibatiaire;Secondaire;Musulmane;Cremeux;Jaunatre;0;NON;Non;H2O;5;Négatif;;;;
+33;F;HRM;Employer de bureau;Encouple;Universitaire;Musulmane;Cremeux;Jaunatre;0;NON;OUI;H2O;4;positif;C.Albicans;S;R;R
+29;F;CSIPCD;Etudiante;Encouple;Universitaire;Chretienne;Fluide;blanchatre;1;NON;OUI;H2O;4;Négatif;;;;
+28;F;CSIPCD;Ménagère;Encouple;Secondaire;Chretienne;Fluide;blanchatre;2;NON;OUI;Savon;4;positif;C.Albicans;S;S;R
+21;F;CSIPCD;Elève;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;2;NON;OUI;H2O;4;Négatif;;;;
+20;F;CSIPCD;Ménagère;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;OUI;Savon;4;Négatif;;;;
+25;F;CSIPCD;Informel;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;NON;OUI;Savon;4;positif;C.glabrata;S;S;R
+38;F;HRM;Ménagère;Marié;Secondaire;Chretienne;Fluide;blanchatre;2;NON;Non;H2O;4;positif;C.glabrata;S;R;R
+25;F;HRM;Ménagère;Encouple;Universitaire;Musulmane;Cremeux;blanchatre;1;NON;Non;Savon;4;Négatif;;;;
+23;F;HRM;Ménagère;Encouple;Universitaire;Musulmane;Cremeux;blanchatre;3;OUI;OUI;H2O;3;positif;C.Albicans;S;R;R
+25;F;CSIPCD;Elève;Marié;Secondaire;Musulmane;Cremeux;Jaunatre;2;OUI;OUI;H2O;3;positif;C.Albicans;S;R;R
+33;F;CSIPCD;Informel;Marié;Primaire;Chretienne;Fluide;blanchatre;6;OUI;OUI;H2O;4;Négatif;;;;
+20;F;CSIPCD;Etudiante;Encouple;Universitaire;Musulmane;Cremeux;blanchatre;0;NON;Non;Savon;4;positif;C.Albicans;S;R;S
+35;F;CSIPCD;Ménagère;Celibatiaire;Primaire;Musulmane;Cremeux;blanchatre;4;OUI;OUI;H2O;5;Négatif;;;;
+27;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;0;OUI;OUI;H2O;3;positif;C.glabrata;S;R;R
+27;F;CSIPCD;Ménagère;Encouple;Non;Musulmane;Cremeux;blanchatre;3;OUI;OUI;Savon;5;Négatif;;;;
+29;F;CSIPCD;Etudiante;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;1;NON;Non;Cyteal;5;Négatif;;S;;
+27;F;CSIPCD;Etudiante;Celibatiaire;Universitaire;Musulmane;Fluide;blanchatre;2;OUI;OUI;H2O;4;Négatif;;;;
+25;F;CSIPCD;Etudiante;Celibatiaire;Universitaire;Musulmane;Cremeux;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+22;F;HRM;Elève;Marié;Secondaire;Musulmane;Mousseux;blanchatre;1;NON;Non;Savon;4;positif;C.Albicans;S;S;R
+27;F;HRM;Informel;Marié;Universitaire;Chretienne;Cremeux;blanchatre;2;NON;Non;H2O;5;positif;C.glabrata;S;S;R
+32;F;HRM;Employer de bureau;Marié;Universitaire;Musulmane;Cremeux;Jaunatre;4;NON;OUI;H2O;4;positif;C.Albicans;S;S;R
+21;F;CSIPCD;Ménagère;Encouple;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;OUI;H2O;4;Négatif;;;;
+26;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;Jaunatre;5;NON;Non;Savon;4;positif;C.Albicans;S;R;S
+21;F;CSIPCD;Informel;Encouple;Non;Musulmane;Cremeux;Jaunatre;3;NON;OUI;Savon;4;Négatif;;;;
+29;F;CSIPCD;Etudiante;Encouple;Universitaire;Chretienne;Cremeux;blanchatre;1;NON;Non;H2O;4;positif;C.glabrata;S;R;R
+36;F;CSIPCD;Etudiante;Encouple;Universitaire;Chretienne;Cremeux;blanchatre;1;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+36;F;CSIPCD;Ménagère;Celibatiaire;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;OUI;H2O;3;Négatif;;;;
+29;F;CSIPCD;Ménagère;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;1;NON;Non;Savon;3;Négatif;;;;
+38;;HRM;Ménagère;Marié;Universitaire;Musulmane;Cremeux;Jaunatre;2;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+30;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;1;NON;Non;Savon;4;positif;C.Albicans;S;R;R
+26;F;HRM;Etudiante;Encouple;Universitaire;Musulmane;Fluide;blanchatre;2;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+24;F;HRM;Ménagère;Marié;Secondaire;Chretienne;Fluide;blanchatre;1;NON;OUI;H2O;3;positif;C.Albicans;S;S;R
+29;F;HRM;Etudiante;Encouple;Universitaire;Musulmane;Cremeux;blanchatre;0;OUI;OUI;H2O;4;Négatif;;;;
+25;F;HRM;Ménagère;Marié;Universitaire;Chretienne;Cremeux;Jaunatre;1;NON;OUI;H2O;4;Négatif;;;;
+28;F;CSIPCD;Informel;Marié;Secondaire;Musulmane;Cremeux;blanchatre;2;NON;Non;H2O;4;Négatif;;;;
+22;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;2;OUI;OUI;Savon;4;Négatif;;;;
+25;F;CSIPCD;Employer de bureau;Celibatiaire;Secondaire;Chretienne;Fluide;blanchatre;1;OUI;OUI;Cyteal;4;Négatif;;;;
+32;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;3;OUI;OUI;Savon;3;Négatif;;;;
+20;F;CSIPCD;Ménagère;Encouple;Non;Chretienne;Fluide;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;S;R
+28;F;HRM;Ménagère;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;3;NON;Non;Savon;5;Négatif;;;;
+20;F;CSIPCD;Ménagère;Marié;Secondaire;Chretienne;Cremeux;blanchatre;0;OUI;OUI;H2O;4;positif;C.Albicans;S;R;R
+21;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;OUI;OUI;Savon;4;Négatif;;;;
+25;F;CSIPCD;Ménagère;Marié;Secondaire;Musulmane;Cremeux;blanchatre;1;OUI;OUI;Savon;4;positif;C.Albicans;S;R;R
+33;F;CSIPCD;Employer de bureau;Encouple;Universitaire;Chretienne;Fluide;Jaunatre;1;NON;OUI;H2O;3;positif;C.Albicans;S;I;R
+29;F;CSIPCD;Ménagère;Encouple;Primaire;Chretienne;Cremeux;blanchatre;1;OUI;OUI;Savon;4;positif;C.Albicans;S;S;R
+23;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;NON;OUI;Savon;3;positif;C.Albicans;S;R;R
+20;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Fluide;blanchatre;0;NON;OUI;H2O;4;positif;C.Albicans;S;S;R
+21;F;CSIPCD;Informel;Marié;Universitaire;Musulmane;Cremeux;blanchatre;1;NON;Non;Savon;4;positif;C.Albicans;S;I;R
+25;F;CSIPCD;Informel;Marié;Secondaire;Musulmane;Cremeux;blanchatre;2;NON;Non;H2O;5;positif;C.glabrata;S;S;R
+25;F;CSIPCD;Informel;Marié;Secondaire;Chretienne;Fluide;blanchatre;3;NON;OUI;Savon;4;positif;C.glabrata;S;S;R
+28;F;CSIPCD;Informel;Encouple;Primaire;Chretienne;Fluide;blanchatre;2;NON;OUI;Savon;4;positif;C.glabrata;S;S;R
+22;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;NON;OUI;Savon;4;Négatif;;;;
+28;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Fluide;blanchatre;2;NON;OUI;H2O;4;positif;C.glabrata;S;S;R
+40;F;CSIPCD;Informel;Marié;Secondaire;Chretienne;Cremeux;blanchatre;3;NON;Non;H2O;4;positif;C.Tropicalis;S;S;R
+25;F;CSIPCD;Elève;Marié;Secondaire;Chretienne;Cremeux;blanchatre;2;NON;Non;H2O;5;positif;C.glabrata;S;S;R
+23;F;CSIPCD;Ménagère;Encouple;Universitaire;Musulmane;Mousseux;blanchatre;2;NON;Non;Savon;3;positif;C.Albicans;S;R;R
+35;F;HRM;Employer de bureau;Celibatiaire;Universitaire;Musulmane;Fluide;blanchatre;0;NON;Non;H2O;4;positif;C.Albicans;S;R;R
+21;F;CSIPCD;Elève;Marié;Secondaire;Musulmane;Cremeux;blanchatre;0;NON;Non;H2O;4;Négatif;;;;
+28;F;CSIPCD;Ménagère;Encouple;Secondaire;Chretienne;Cremeux;blanchatre;7;NON;Non;H2O;4;Négatif;;;;
+23;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;NON;OUI;H2O;4;positif;C.Albicans;S;R;R
+24;F;CSIPCD;Informel;Encouple;Non;Musulmane;Fluide;blanchatre;3;NON;OUI;Savon;5;Négatif;;;;
+28;F;CSIPCD;Informel;Encouple;Non;Musulmane;Fluide;blanchatre;3;NON;OUI;H2O;3;positif;C.glabrata;S;R;R
+21;F;CSIPCD;Informel;Encouple;Primaire;Musulmane;Fluide;blanchatre;1;NON;Non;Savon;4;Négatif;;;;
+23;F;HRM;Employer de bureau;Marié;Universitaire;Chretienne;Mousseux;Jaunatre;2;NON;OUI;H2O;4;positif;C.Albicans;S;R;R
+22;F;hrm;Etudiante;Celibatiaire;Universitaire;Musulmane;Fluide;blanchatre;3;NON;Non;Savon;3;positif;C.Krusei;S;R;R
+21;F;HRM;Informel;Encouple;Non;Chretienne;Cremeux;blanchatre;0;OUI;OUI;H2O;4;positif;C.Albicans;S;S;R
+22;F;HRM;Informel;Celibatiaire;Primaire;Chretienne;Fluide;blanchatre;1;OUI;OUI;H2O;4;Négatif;;;;
+39;F;CSIPCD;Informel;Marié;Primaire;Musulmane;Cremeux;blanchatre;7;NON;Non;H2O;4;Négatif;;;;
+21;F;CSIPCD;Ménagère;Celibatiaire;Secondaire;Musulmane;Fluide;blanchatre;2;NON;Non;Savon;4;positif;C.Albicans;S;S;R
+25;F;CSIPCD;Employer de bureau;Marié;Universitaire;Musulmane;Cremeux;blanchatre;4;OUI;OUI;H2O;5;Négatif;;;;
+23;F;CSIPCD;Informel;Encouple;Primaire;Musulmane;Cremeux;Jaunatre;1;OUI;OUI;Savon;5;Négatif;;S;;
+22;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Fluide;blanchatre;2;NON;OUI;Savon;4;Négatif;;;;
+22;F;CSIPCD;Ménagère;Marié;Secondaire;Chretienne;Cremeux;blanchatre;0;NON;Non;Savon;4;positif;C.Krusei;S;I;R
+20;F;CSIPCD;Elève;Encouple;Secondaire;Chretienne;Fluide;blanchatre;0;NON;OUI;Savon;4;positif;C.glabrata;S;S;S
+29;F;CSIPCD;Ménagère;Marié;Primaire;Musulmane;Cremeux;blanchatre;0;OUI;OUI;Savon;4;positif;C.Albicans;S;R;R
+23;F;CSIPCD;Elève;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;1;OUI;OUI;H2O;4;positif;C.Albicans;S;I;R
+22;F;CSIPCD;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;Jaunatre;2;NON;Non;H2O;5;Négatif;;;;
+27;F;CSIPCD;Ménagère;Celibatiaire;Secondaire;Musulmane;Cremeux;blanchatre;2;NON;Non;Cyteal;4;positif;C.Albicans;S;R;R
+35;F;HRM;Ménagère;Celibatiaire;Secondaire;Chretienne;Fluide;blanchatre;2;OUI;OUI;H2O;5;Négatif;;;;
+25;F;HRM;Informel;Encouple;Primaire;Chretienne;Cremeux;blanchatre;1;NON;OUI;H2O;5;positif;C.Albicans;S;R;R
+21;F;HRM;Ménagère;Encouple;Secondaire;Musulmane;Cremeux;blanchatre;3;NON;OUI;H2O;4;positif;C.Albicans;S;R;R
+23;F;CSIPCD;Informel;Encouple;Secondaire;Musulmane;Fluide;blanchatre;1;NON;OUI;H2O;4;Négatif;;;;
+30;F;hrm;Informel;Encouple;Primaire;Musulmane;Cremeux;Jaunatre;1;NON;Non;H2O;4;positif;C.Krusei;S;S;R
+22;F;HRM;Etudiante;Marié;Universitaire;Chretienne;Cremeux;blanchatre;0;NON;Non;H2O;5;Négatif;C.glabrata;S;S;S
